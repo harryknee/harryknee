@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, this is Harry 👋 
 
-<!--
-**harryknee/harryknee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Imperial College London with a passion in Machine Learning, Software and Hardware. I enjoy building impactful projects and learning new tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats 📊
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harryknee&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harryknee&layout=compact&theme=radical)
+
+---
+
+### 🛠️ Languages and Tools
+
+Python, C++, SQL, F#, Go, SystemVerilog
+
+
+<!-- Optional section where you list tools, tech stacks, etc. -->
